@@ -31,7 +31,7 @@ connected to my real LAN)
 ## Progress Log
 - [x] Set up VirtualBox
 - [x] Kali Linux installed
-- [ ] Metasploitable2 installed
+- [x] Metasploitable2 installed
 - [ ] Wazuh installed and configured
 - [ ] Internal network configured, all VMs communicating
 - [ ] First attack (port scan) run and detected
