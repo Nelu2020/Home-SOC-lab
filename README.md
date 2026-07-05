@@ -30,7 +30,7 @@ connected to my real LAN)
 
 ## Progress Log
 - [x] Set up VirtualBox
-- [ ] Kali Linux installed
+- [x] Kali Linux installed
 - [ ] Metasploitable2 installed
 - [ ] Wazuh installed and configured
 - [ ] Internal network configured, all VMs communicating
